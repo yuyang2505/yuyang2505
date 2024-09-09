@@ -1,7 +1,7 @@
 ## Ong Yu Yang
 
 
--  🎓  I'm currently an undergraduate in Computer Science (Big Data) at the University of Wollongong. 
+-  🎓  I'm currently an undergraduate pursuing a degree in Computer Science (Big Data) at the University of Wollongong. 
 -  📖  I’m currently learning React.
 -  💼  Open for an internship from Sep 2024 - Mar 2025 in Singapore.
 -  🤝  Connect with me on Linkedin!
