@@ -16,7 +16,7 @@
 ### Languages and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,html,css,javascript,react,cpp,linux,github"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,html,css,javascript,react,cpp,linux,git"/>
 </div>
 
 
