@@ -3,7 +3,6 @@
 
 -  🎓  I'm currently an undergraduate pursuing a degree in Computer Science (Big Data) at the University of Wollongong. 
 -  📖  I’m currently taking the IBM Full Stack Developer Course.
--  💼  Open for an internship from Sep 2024 - Mar 2025 in Singapore.
 -  🤝  Connect with me on Linkedin!
 <div align="left">
   <a href="https://www.linkedin.com/in/yuyangong" target="_blank">
