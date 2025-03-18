@@ -3,7 +3,6 @@
 - 🎓 I’m a graduate with a degree in Computer Science (Big Data) from the University of Wollongong.
 - 💼 Currently working as a Software Engineer.
 - 🖥️ Main technologies I work with: Next.js and Supabase.
-- 📋 Currently working on a to-do app.
 - 🤝 Connect with me on LinkedIn!
 
 <div align="left">
